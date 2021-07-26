@@ -1,0 +1,8 @@
+{
+  "eslintConfig": {
+    "extends": "aribnb-base",
+    "env": {
+      "browser": true
+    }
+  }
+}

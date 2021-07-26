@@ -1,0 +1,9 @@
+
+# directory ignore all the node_module direcorty in each direcotry in new-one
+vue-cli/node_modules
+New-cli/node_modules
+.DS_Store
+debug.log
+.vscode
+**/node_modules/*
+

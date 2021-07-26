@@ -1,0 +1,13 @@
+{
+  "browserList (可以在 GitHub 上面搜索更多的设置)": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version"
+    ],
+    "production  browserList默认是生产环境": [
+      ">0.2%",
+      "noe dead",
+      "not op_mini all"
+    ]
+  }
+}
